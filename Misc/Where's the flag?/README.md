@@ -1,10 +1,10 @@
-### Where's the flag?
+# Where's the flag?
 
-# Description
+## Description
 Try to findout where the flag is in the file.
 
-# Note
+## Note
 The flag format is SmileCTF{flag}
 
-# Points
+## Points
 15
